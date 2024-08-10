@@ -1,2 +1,4 @@
 # CMO
-Codes for the course Computational methods for optimization
+Codes for the course Computational methods for optimization, 2024 Fall.
+
+Course website: 
